@@ -1,2 +1,2 @@
 # GitTutorial
-Git Tutorial Ver2.0.1
+Git Tutorial Ver2.0
